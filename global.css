@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --link: Lato;
+  --font-abril-fatface: "Abril Fatface";
+
+  /* font sizes */
+  --body-size: 14px;
+  --link-size: 16px;
+  --h2-size: 60px;
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --h1-size: 72px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-coral: #ff9056;
+  --color-black: #000;
+  --color-yellowgreen: #6ec205;
+  --color-floralwhite: #fffdf4;
+  --color-gray: rgba(0, 0, 0, 0.5);
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-mini: 15px;
+  --padding-4xl: 23px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+  --br-6xl: 25px;
+  --br-xl: 20px;
+}
